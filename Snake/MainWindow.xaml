@@ -14,5 +14,6 @@
         <TextBlock Height="300" Name="tbGameOver" Text="   Game Over!" Width="300" FontFamily="Levenim MT" FontSize="36" Background="#79483232" Foreground="#FFFC0000" Visibility="Hidden" Margin="111,12,164,12" />
         <ProgressBar HorizontalAlignment="Left" Height="24" Margin="111,617,0,0" VerticalAlignment="Top" Width="498" Value="60"/>
         <Label x:Name="label" Content="х 4" HorizontalAlignment="Left" Margin="614,610,0,0" VerticalAlignment="Top" Width="97" FontFamily="LCDMono2" FontSize="30"/>
+        <Label x:Name="speed_label" Content="" HorizontalAlignment="Left" Margin="718,104,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
